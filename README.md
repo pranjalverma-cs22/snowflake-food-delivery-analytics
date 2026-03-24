@@ -16,8 +16,7 @@ It ingests raw CSV data, processes it incrementally, applies SCD Type‑2 modeli
 
 ---
 
-## Architecture
-![Data Flow](architecture/architecture_overview.png)
+
 
 
 ## Key Features
